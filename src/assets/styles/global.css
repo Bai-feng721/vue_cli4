@@ -1,0 +1,65 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+dl,
+dd,
+hr,
+ul,
+ol,
+td,
+input,
+option,
+textarea {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: #515a6e !important;
+}
+h1{
+	font-size: 22px;
+}
+h2{
+	font-size: 20px;
+	font-weight: 500;
+}
+h3{
+	font-size: 14px;
+	font-weight: 500;
+}
+p {
+	font-size: 16px;
+}
+
+img {
+	border: none;
+}
+
+.main {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.contentmain{
+    width: 1200px;
+    margin: 0 auto;
+  }
